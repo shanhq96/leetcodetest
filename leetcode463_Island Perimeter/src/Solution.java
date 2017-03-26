@@ -1,5 +1,7 @@
 import org.junit.jupiter.api.Test;
 
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 /**
  * @author shanhq96@gmail.com
  * @ClassName 463_Island Perimeter
@@ -65,6 +67,6 @@ public class Solution {
     @Test
     public void testIslandPerimeter(){
         int[][] testArray = {{0, 1, 0, 0}, {1, 1, 1, 0}, {0, 1, 0, 0}, {1, 1, 0, 0}};
-        System.out.print(islandPerimeter(testArray));
+        assertEquals(16,islandPerimeter(testArray));
     }
 }
