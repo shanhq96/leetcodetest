@@ -12,7 +12,7 @@ import java.util.HashMap;
  * You may use one character in the keyboard more than once.
  * You may assume the input string will only contain letters of alphabet.
  * @date 2017/3/26-15:08
- * @understand 将键盘的三行字母存在hashmap中.然后判断输入的字符串
+ * @understand 将键盘的三行字母存在hashmap中.然后判断输入的字符串 该方法leetcode运行时间为4ms
  */
 public class Solution {
     HashMap<Character, Integer> keyBordMap = new HashMap<>();//存储键盘位置.
