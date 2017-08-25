@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/leetcode496/leetcode496.iml" filepath="$PROJECT_DIR$/leetcode496/leetcode496.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode500/leetcode500.iml" filepath="$PROJECT_DIR$/leetcode500/leetcode500.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode520_Detect Capital/leetcode520_Detect Capital.iml" filepath="$PROJECT_DIR$/leetcode520_Detect Capital/leetcode520_Detect Capital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode_14_LongestCommonPrefix/leetcode_14_LongestCommonPrefix.iml" filepath="$PROJECT_DIR$/leetcode_14_LongestCommonPrefix/leetcode_14_LongestCommonPrefix.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcodetest.iml" filepath="$PROJECT_DIR$/.idea/leetcodetest.iml" />
     </modules>
   </component>
