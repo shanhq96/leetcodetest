@@ -1,6 +1,3 @@
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Test;
-
 /**
  * @author shanhq96@gmail.com & qf0302yty@126.com & 498357435@qq.com
  * @ClassName 41_First Missing Positive
@@ -35,7 +32,7 @@ public class Solution {
         return result;
     }
 
-    @Test
+    /*@Test
     public void testFirstMissingPositive() {
         int[] nums1 = {1};
         int[] nums2 = {1,2,0};
@@ -47,5 +44,5 @@ public class Solution {
         Assertions.assertEquals(2, firstMissingPositive(nums3));
         Assertions.assertEquals(1, firstMissingPositive(nums4));
         Assertions.assertEquals(1, firstMissingPositive(nums5));
-    }
+    }*/
 }
